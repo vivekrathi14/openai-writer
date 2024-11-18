@@ -1,27 +1,27 @@
-# next-css example
+# Project Description
+This project is a writing assistance tool that leverages OpenAI's API to enhance text editing capabilities. By integrating ChatGPT, the application allows users to rephrase, improve, and change the tone of their text. The tool provides an intuitive user interface where users can interact with the AI model for enhanced writing, whether for personal, academic, or professional purposes. The application utilizes OpenAI’s powerful language model to assist with content refinement in real-time.
 
-This example demonstrates how to use Next.js' built-in CSS imports and CSS modules support.
+# Demo
+![Video Demo](./path/to/your-video-file.mp4)
 
-## Deploy your own
+## Key Skills Learned:
+1. React: Built the user interface using React, creating components for the writing area, action buttons, and dynamic content updates.
+2. Open API Integration: Integrated OpenAI’s API to interact with the language model for text rephrasing and tone adjustments.
+3. State Management: Managed React app states to handle text changes and API responses seamlessly.
+4. Event Handling: Implemented event handlers to trigger API calls and handle user inputs effectively.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/next-css)
+## Tasks Accomplished:
+1. Set up OpenAI API configurations and created functions to call the API for text improvement.
+2. Implemented multiple API features, such as style and tone changes, to provide users with various options for enhancing their content.
+3. Built an API wrapper to streamline communication between the frontend and OpenAI API.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/next-css&project-name=next-css&repository-name=next-css)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example next-css next-css-app
+# How to use?
+1. Install Node.js: Go to Node.js website.
+2. Go to project directory & do 
 ```
-
-```bash
-yarn create next-app --example next-css next-css-app
+npm install
 ```
-
-```bash
-pnpm create next-app --example next-css next-css-app
+3. Run dev server
 ```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+PORT=3000 npm run dev
+```
