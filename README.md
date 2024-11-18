@@ -2,7 +2,8 @@
 This project is a writing assistance tool that leverages OpenAI's API to enhance text editing capabilities. By integrating ChatGPT, the application allows users to rephrase, improve, and change the tone of their text. The tool provides an intuitive user interface where users can interact with the AI model for enhanced writing, whether for personal, academic, or professional purposes. The application utilizes OpenAI’s powerful language model to assist with content refinement in real-time.
 
 # Demo
-![Video Demo](./path/to/your-video-file.mp4)
+
+[![Project Demo](tool_img.png)](https://youtu.be/VAXOima-HVA)
 
 ## Key Skills Learned:
 1. React: Built the user interface using React, creating components for the writing area, action buttons, and dynamic content updates.
