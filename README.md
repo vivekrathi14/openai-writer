@@ -11,6 +11,12 @@ This project is a writing assistance tool that leverages OpenAI's API to enhance
 3. State Management: Managed React app states to handle text changes and API responses seamlessly.
 4. Event Handling: Implemented event handlers to trigger API calls and handle user inputs effectively.
 
+
+## Technologies:
+1. React
+2. TypeScript
+3. OpenAI API Integration
+
 ## Tasks Accomplished:
 1. Set up OpenAI API configurations and created functions to call the API for text improvement.
 2. Implemented multiple API features, such as style and tone changes, to provide users with various options for enhancing their content.
@@ -22,6 +28,7 @@ This project is a writing assistance tool that leverages OpenAI's API to enhance
 ```
 npm install
 ```
+3. Update your OPEN_AI_API_KEY in .env or create .env with OPEN_AI_API_KEY
 3. Run dev server
 ```
 PORT=3000 npm run dev
