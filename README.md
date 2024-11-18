@@ -28,7 +28,7 @@ This project is a writing assistance tool that leverages OpenAI's API to enhance
 ```
 npm install
 ```
-3. Update your OPEN_AI_API_KEY in .env or create .env with OPEN_AI_API_KEY
+3. Update your NEXT_PUBLIC_OPENAI_API_KEY in .env or create .env with NEXT_PUBLIC_OPENAI_API_KEY
 3. Run dev server
 ```
 PORT=3000 npm run dev
